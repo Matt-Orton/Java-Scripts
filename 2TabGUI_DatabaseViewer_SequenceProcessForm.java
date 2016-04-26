@@ -3,24 +3,10 @@
  * Authored by Matthew Orton
  * This program will be a two tabbed GUI. One tab will contain the sequence process form
  * developed in the SequenceProcessGUI program whereas the other will possess database integration with my own mysql
- * account bif724_161a17. The user will then be able to select any of the tables present
+ * account bif724_161a17 however this can be changed to any database. The user will then be able to select any of the tables present
  * in this database by selecting the appropriate radiobutton and a table displaying the table
  * will be shown on this tab once they click submit.
 */
-
-
-/*
-
-I declare that the attached assignment is my own work in accordance
-with Seneca Academic Policy. No part of this assignment has been
-copied manually or electronically from any other source (including web
-sites) or distributed to other students.
-Name : Matthew Orton
-Student ID: 030739155
-*/
-
-//The first part of this assignment is my work from Assignment 2 so much of the code remains the same
-//Also note the tables I use are just example tables, not real datasets
 
 
 import java.awt.*;
